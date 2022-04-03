@@ -11,7 +11,9 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="">
-        <h1>Welcome to the NFT DROP CHALLENGE</h1>
+        <h1 className="text-4xl font-bold text-red-500">
+          Welcome to the NFT DROP CHALLENGE
+        </h1>
       </main>
 
       <footer className=""></footer>
